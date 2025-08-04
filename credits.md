@@ -1,5 +1,5 @@
 # Credits
-El código realizado se realizó con ayuda de la herramienta copilot para detextar los errores que surgían a la hora de programar.
+El código realizado se realizó con ayuda de la herramienta copilot para detectar los errores que surgían a la hora de programar.
 Además, algunas partes del código (como el constructor del GCN) se tomaron de las siguientes páginas
 https://www.slingacademy.com/article/building-your-first-graph-convolutional-network-gcn-with-pytorch/
 https://www.kaggle.com/code/lucasdataartist/eda-clothes-price-prediction
